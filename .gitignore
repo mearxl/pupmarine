@@ -1,0 +1,7 @@
+# Logs & scratch files
+*.log
+screenshot*.png
+pupmarine_screenshot.png
+pupmarine_active.png
+.DS_Store
+node_modules/
